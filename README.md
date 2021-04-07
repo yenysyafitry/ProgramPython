@@ -65,6 +65,6 @@ if money > apple_price: </br>
 <i>elif money == apple_price: </br>
     print('Anda dapat membeli apel tetapi dompet Anda akan menjadi kosong') </br>
 else: </br>
-    print('Uang Anda tidak mencukupi') </i> </li>
+    print('Uang Anda tidak mencukupi') </i> </br> <b>Output :</b><i> Anda dapat membeli apel tetapi dompet Anda akan menjadi kosong</i></li>
 
 </ul>

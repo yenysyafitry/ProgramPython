@@ -38,7 +38,7 @@ y = 5 * 6 </i></br>
     print('y bukan 40') </br>
     <b>Output :</b></br>
     x adalah 70 </br>y bukan 40</i></li>
-    <li>
+    <li> <b>Variable x sudah disiapkan untuk Anda dengan nilai 10: </b>
 <i>  x = 10</i> </br>
  <b> Jika x lebih besar dari 30, cetak 'x lebih besar dari 30' :</b></br>
 <i> if x > 30:</br>

@@ -28,5 +28,5 @@ print('Nama saya ' + my_name)</br> <i>Output : Nama saya Bob</i></li>
 <b>count = '5'</b></br>
 <i> Ubah variable count ke tipe data integer, tambahkan 1, dan cetak hasilnya</i></br>
 <b>print(int(count) + 1)</b></br>
-</br> <i><b>Output : Saya berusia 24 tahun</br>6</i></b></li>
+</br> <i>Output : </b><b>Saya berusia 24 tahun</br>6</i></b></li>
 </ul>

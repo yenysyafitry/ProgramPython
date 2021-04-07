@@ -120,5 +120,6 @@ elif money == total_price: </br>
 else: </br> 
     print('Uang Anda tidak mencukupi') </br> 
     print('Anda tidak dapat membeli apel sebanyak itu') </br> </i>
+    <b>Output :</b></br> <i>Mau berapa apel?... </br>Anda telah membeli</br>Uang Anda tinggal</br> Anda telah membeli</br>Dompet Anda kosong</i>
 </li>
 </ul>

@@ -12,7 +12,7 @@ Komentar tidak akan muncul ketika code dijalankan sehingga Anda bisa menggunakan
 
 
 
-<ul <b> script.py </b>><li> Tetapkan Bob sebagai nilai untuk variable name. </br>
+<ul> <b> script.py </b><li> Tetapkan Bob sebagai nilai untuk variable name. </br>
  name = 'Bob' </br> print(name) </br> <i>Output : <u>Bob</i></li>
 <li> Tetapkan integer 7 untuk variable number.</br>
 number = 7 </br>

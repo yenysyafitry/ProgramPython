@@ -13,8 +13,8 @@ Komentar tidak akan muncul ketika code dijalankan sehingga Anda bisa menggunakan
 
 <b> script.py </b>
 <ul><li> Tetapkan Bob sebagai nilai untuk variable name. </br>
- name = 'Bob' </br> print(name) </br> Output : Bob</li>
+ name = 'Bob' </br> print(name) </br> Output : <u>Bob</u></li>
 <li> Tetapkan integer 7 untuk variable number.</br>
-number = <i>7 </i></br>
+number = <u>7 </u></br>
 print(number) </br> Output : 7</li>
 </ul>

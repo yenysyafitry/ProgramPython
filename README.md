@@ -28,12 +28,12 @@ print('Nama saya ' + my_name)</br> <i>Output : Nama saya Bob</i></li>
 <b> Ubah variable count ke tipe data integer, tambahkan 1, dan cetak hasilnya</b></br>
 <i>print(int(count) + 1)</i></br>
  <b>Output : </br></b><i>Saya berusia 24 tahun</br>6</i></li>
- <li><b>Variable x dan y </b></br>x = 7 * 10
-y = 5 * 6 </br>
+ <li><b>Variable x dan y :</b></br><i>x = 7 * 10 </br>
+y = 5 * 6 </i></br>
 <b>Jika x sama dengan 70, cetak 'x adalah 70'</b></br>
-if x == 70:</br>
-    print('x adalah 70')</br>
+<i>if x == 70: </br>
+    print('x adalah 70')</i></br>
 <b> Jika y tidak sama dengan 40, cetak 'y bukan 40' </b></br>
-if y != 40:</br>
-    print('y bukan 40')</br></li>
+<i>if y != 40: </br>
+    print('y bukan 40') </i></br></li>
 </ul>

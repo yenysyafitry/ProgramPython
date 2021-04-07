@@ -79,4 +79,15 @@ z = 55</br></i>
 <i>if not z == 77:</br>
     print('z bukan 77') </i></br>
     <b>Output :</b> </br><i>x berkisar antara 10 dan 30</br>y lebih kecil dari 10 atau lebih besar dari 30 </br>z bukan 77</i></li>
+ <li><b> Berikan 2 ke variable apple_price :</b></br>
+<i>apple_price = 2 </br> </i>
+<b>Berikan 5 ke variable count </br></b>
+<i>count = 5 </br></i>
+<b> Berikan hasil dari apple_price * count ke variable total_price </br></b>
+<i>total_price = apple_price * count </br></i>
+<i> Dengan menggunakan variable count, cetak 'Anda akan membeli .. apel' </br>
+print('Anda akan membeli ' + str(count) + ' apel') </br></i>
+<b> Dengan menggunakan variable total_price, cetak 'Harga total adalah .. dolar' </br> </b>
+print('Harga total adalah ' + str(total_price) + ' dolar')</br> </li>
+
 </ul>

@@ -121,5 +121,12 @@ else: </br>
     print('Uang Anda tidak mencukupi') </br> 
     print('Anda tidak dapat membeli apel sebanyak itu') </br> </i>
     <b>Output :</b></br> <i>Mau berapa apel? ... </br>Anda telah membeli ...</br>Uang Anda tinggal ...</br> Anda telah membeli ...</br>Dompet Anda kosong ...</i>
-</li>
+</li><li><b>Tetapkan sebuah list string ke variable fruits</b> </br>
+<i>fruits = ['apel', 'pisang', 'jeruk'] </i></br>
+<b> Cetak element di index 0 </b> </br>
+<i>print(fruits[0]) </i>
+<b> Gabungkan string dan element di index 2, dan cetak hasilnya </b>
+<i>print('Saya suka ' + fruits[2])</i>
+<b>Output</b></br><i>apel</br>Saya suka jeruk</i></li>
+
 </ul>

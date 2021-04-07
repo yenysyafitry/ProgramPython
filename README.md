@@ -66,5 +66,17 @@ if money > apple_price: </br>
     print('Anda dapat membeli apel tetapi dompet Anda akan menjadi kosong') </br>
 else: </br>
     print('Uang Anda tidak mencukupi') </i> </br> <b>Output :</b><i> Anda dapat membeli apel tetapi dompet Anda akan menjadi kosong</i></li>
-
+    <li><b>Menggabungkan Kondisi </b></br><i> x = 20 </i></br>
+<b> Jika x berkisar antara 10 dan 30 (inklusif), cetak 'x berkisar antara 10 dan 30' </b></br>
+<i>if 10 <= x and x <= 30: </br>
+    print('x berkisar antara 10 dan 30') </br>
+y = 60 <i> </br>
+<b> Jika y lebih kecil dari 10 atau lebih besar dari 30, cetak 'y lebih kecil dari 10 atau lebih besar dari 30' </b></br>
+<i>if y < 10 or 30 < y: </br>
+    print('y lebih kecil dari 10 atau lebih besar dari 30') </br>
+z = 55</br></i>
+<b> Jika z tidak sama dengan 77, print 'z bukan 77' </b></br>
+<i>if not z == 77:</br>
+    print('z bukan 77') </i></br>
+    <b>Output :</b> <i>x berkisar antara 10 dan 30</br>y lebih kecil dari 10 atau lebih besar dari 30 </br>z bukan 77</i></li>
 </ul>

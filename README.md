@@ -92,5 +92,12 @@ print('Harga total adalah ' + str(total_price) + ' dolar')</br>
 <b>Output :</b> </br><i>Anda akan membeli 5 apel </br>
 Harga total adalah 10 dolar</br></i>
 </li>
-
+<li><i>apple_price = 2</i></br> 
+ <b> Terima jumlah apel dengan menggunakan input(), dan berikan hasilnya ke variable input_count </b></br> 
+ <i>input_count = input('Mau berapa apel?: ')</i></br> 
+ <b> Ubah variable input_count ke integer, dan berikan hasilnya ke variable count </b></br> 
+<i>count = int(input_count)</br> 
+total_price = apple_price * count</br> 
+print('Anda akan membeli ' + str(count) + ' apel')</br> 
+print('Harga total adalah ' + str(total_price) + ' dolar')</br> </i></li>
 </ul>

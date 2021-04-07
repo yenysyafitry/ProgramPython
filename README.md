@@ -1,7 +1,4 @@
-<html>
-<head>
- </head>
- <h2>  Program Python </h2>
+<h2>  Program Python </h2>
 <ul> <li>Python termasuk bahasa pemrograman yang mudah untuk dipelajari. 
 Sampai saat ini bahasa pemrograman Python hampir dipakai di segala sistem berbasis web, dan bahkan dapat membuat mesin pencari sendiri. 
 Jadi secara umum, bahasa pemrograman ini dipakai dalam pengembangan website, pengembangan software, matematika, dan system scripting. </li>
@@ -14,11 +11,15 @@ Komentar tidak akan muncul ketika code dijalankan sehingga Anda bisa menggunakan
 </ul>
 
 
-<b> script.py </b>
-<ul><li> Tetapkan Bob sebagai nilai untuk variable name. </br>
+
+<ul <b> script.py </b>><li> Tetapkan Bob sebagai nilai untuk variable name. </br>
  name = 'Bob' </br> print(name) </br> <i>Output : <u>Bob</i></li>
 <li> Tetapkan integer 7 untuk variable number.</br>
 number = 7 </br>
 print(number) </br> <i>Output : 7</i></li>
 </ul>
-</html>
+
+my_name = 'Bob'
+
+# Cetak 'Nama saya Bob' dengan menggabungkan variable my_name dan sebuah string
+print('Nama saya ' + my_name)

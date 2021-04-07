@@ -38,4 +38,14 @@ y = 5 * 6 </i></br>
     print('y bukan 40') </br>
     <b>Output :</b></br>
     x adalah 70 </br>y bukan 40</i></li>
+    <li>
+<i>  x = 10</i> </br>
+ <b> Jika x lebih besar dari 30, cetak 'x lebih besar dari 30' :</b></br>
+<i> if x > 30:</br>
+    print('x lebih besar dari 30')</br>
+money = 5</br>
+apple_price = 2</i> </br>
+<b> Jika money sama dengan atau lebih besar dari apple_price, cetak 'Anda dapat membeli apel' </b></br>
+<i> if money >= apple_price:</br>
+    print('Anda dapat membeli apel') </i> 
 </ul>

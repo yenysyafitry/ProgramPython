@@ -99,5 +99,8 @@ Harga total adalah 10 dolar</br></i>
 <i>count = int(input_count)</br> 
 total_price = apple_price * count</br> 
 print('Anda akan membeli ' + str(count) + ' apel')</br> 
-print('Harga total adalah ' + str(total_price) + ' dolar')</br> </i></li>
+print('Harga total adalah ' + str(total_price) + ' dolar')</br> </i>
+<b>Output :</b></br> <i>Mau berapa apel?: </br>Anda akan membeli ... </br>Harga total adalah</i>
+
+</li>
 </ul>

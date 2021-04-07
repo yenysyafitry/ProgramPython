@@ -11,7 +11,8 @@ Komentar tidak akan muncul ketika code dijalankan sehingga Anda bisa menggunakan
 </ul>
 
 
-- Tetapkan 'Bob' ke variable name </br> name = 'Bob' </br> 
- Cetak nilai dari variable name </br> print(name) Output : Bob</br>
- Tetapkan 7 ke variable number </br> number = 7 </br>
- Cetak nilai dari variable number </br> print(number) Output : 7</br>
+- Tetapkan Bob sebagai nilai untuk variable name. </br>
+ name = 'Bob' </br> print(name)
+ Tetapkan integer 7 untuk variable number.</br>
+number = 7 </br>
+print(number)

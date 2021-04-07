@@ -36,5 +36,6 @@ y = 5 * 6 </i></br>
 <b> Jika y tidak sama dengan 40, cetak 'y bukan 40' </b></br>
 <i>if y != 40: </br>
     print('y bukan 40') </br>
+    <b>Output :</b></br>
     x adalah 70 </br>y bukan 40</i></li>
 </ul>

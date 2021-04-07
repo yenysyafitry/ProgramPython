@@ -21,11 +21,11 @@ print(number) </br> <i>Output : 7</i></li>
 my_name = 'Bob'</br>
 Cetak 'Nama saya Bob' dengan menggabungkan variable my_name dan sebuah string
 print('Nama saya ' + my_name)</br> <i>Output : Nama saya Bob</i></li>
-<li><i>Cetak 'Saya berusia 24 tahun' menggunakan variable age </i> </br>
-<b> age = 24 </b> </br>
-<b>print('Saya berusia ' + str(age) + ' tahun') </b></br>
-<b>count = '5'</b></br>
-<i> Ubah variable count ke tipe data integer, tambahkan 1, dan cetak hasilnya</i></br>
-<b>print(int(count) + 1)</b></br>
- <i>Output : </br><b>Saya berusia 24 tahun</br>6</i></b></li>
+<li><b>Cetak 'Saya berusia 24 tahun' menggunakan variable age </b> </br>
+<i> age = 24 </i> </br>
+<i>print('Saya berusia ' + str(age) + ' tahun') </i></br>
+<i>count = '5'</i></br>
+<b> Ubah variable count ke tipe data integer, tambahkan 1, dan cetak hasilnya</b></br>
+<i>print(int(count) + 1)</i></br>
+ <b>Output : </br></b><i>Saya berusia 24 tahun</br>6</i></li>
 </ul>

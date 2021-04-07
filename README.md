@@ -47,5 +47,14 @@ money = 5</br>
 apple_price = 2</i> </br>
 <b> Jika money sama dengan atau lebih besar dari apple_price, cetak 'Anda dapat membeli apel' </b></br>
 <i> if money >= apple_price:</br>
-    print('Anda dapat membeli apel') </i> 
+    print('Anda dapat membeli apel') </i> </li>
+    <li><b>Variable berikut sudah tersedia untuk Anda :</b></br> <i>
+ money = 2 </br>
+apple_price = 4 </br>
+if money >= apple_price: </br>
+    print('Anda dapat membeli apel') </br></i>
+<b> Ketika kondisi di atas adalah False, cetak 'Uang Anda tidak mencukupi' </b></br>
+<i>else: </br>
+    print('Uang Anda tidak mencukupi') </i></br></li>
+
 </ul>

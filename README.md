@@ -11,9 +11,10 @@ Komentar tidak akan muncul ketika code dijalankan sehingga Anda bisa menggunakan
 </ul>
 
 
-<h6> script.py </h6>
+<b> script.py </b>
 <ul><li> Tetapkan Bob sebagai nilai untuk variable name. </br>
- name = 'Bob' </br> print(name) </li>
+ name = 'Bob' </br> print(name) </br> Output : Bob</li>
 <li> Tetapkan integer 7 untuk variable number.</br>
 number = 7 </br>
-print(number)</li>
+print(number) </br> Output : 7</li>
+</ul>

@@ -16,5 +16,5 @@ Komentar tidak akan muncul ketika code dijalankan sehingga Anda bisa menggunakan
  name = 'Bob' </br> print(name) </br> Output : <u>Bob</u></li>
 <li> Tetapkan integer 7 untuk variable number.</br>
 number = 7 </br>
-print(number) </br> Output : <mark>7</mark></li>
+print(number) </br> Output : <b>7</b></li>
 </ul>

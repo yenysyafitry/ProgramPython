@@ -101,6 +101,24 @@ total_price = apple_price * count</br>
 print('Anda akan membeli ' + str(count) + ' apel')</br> 
 print('Harga total adalah ' + str(total_price) + ' dolar')</br> </i>
 <b>Output :</b></br> <i>Mau berapa apel?... </br>Anda akan membeli ... </br>Harga total adalah ...</i>
-
+</li>
+<li> apple_price = 2 </br> 
+<b> Berikan 10 ke variable money</b>  </br> 
+<i>money = 10 </br> 
+input_count = input('Mau berapa apel?: ') </br> 
+count = int(input_count) </br> 
+total_price = apple_price * count </br> 
+print('Anda akan membeli ' + str(count) + ' apel') </br> 
+print('Harga total adalah ' + str(total_price) + ' dolar') </br> </i>
+<b> Tambahkan control flow berdasarkan perbandingan antara money dan total_price </b></br> 
+<i>if money > total_price: </br> 
+    print('Anda telah membeli ' + str(count) + ' apel') </br> 
+    print('Uang Anda tinggal ' + str(money - total_price) + ' dolar') </br> 
+elif money == total_price: </br> 
+    print('Anda telah membeli ' + str(count) + ' apel') </br> 
+    print('Dompet Anda kosong') </br> 
+else: </br> 
+    print('Uang Anda tidak mencukupi') </br> 
+    print('Anda tidak dapat membeli apel sebanyak itu') </br> </i>
 </li>
 </ul>

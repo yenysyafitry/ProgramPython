@@ -12,14 +12,13 @@ Komentar tidak akan muncul ketika code dijalankan sehingga Anda bisa menggunakan
 
 
 
-<ul><li> Tetapkan Bob sebagai nilai untuk variable name. </br>
+<ul><li> Tetapkan Bob sebagai nilai untuk variable name : </br>
  name = 'Bob' </br> print(name) </br> <i>Output : <u>Bob</i></li>
-<li> Tetapkan integer 7 untuk variable number.</br>
+<li> Tetapkan integer 7 untuk variable number :</br>
 number = 7 </br>
 print(number) </br> <i>Output : 7</i></li>
+<li>Tetapkan string Bob ke variable my_name : </br>
+my_name = 'Bob'</br>
+Cetak 'Nama saya Bob' dengan menggabungkan variable my_name dan sebuah string
+print('Nama saya ' + my_name)</br> <i>Output : Nama saya Bob</i></li>
 </ul>
-
-my_name = 'Bob'
-
-# Cetak 'Nama saya Bob' dengan menggabungkan variable my_name dan sebuah string
-print('Nama saya ' + my_name)

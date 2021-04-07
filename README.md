@@ -16,9 +16,9 @@ Komentar tidak akan muncul ketika code dijalankan sehingga Anda bisa menggunakan
 
 <b> script.py </b>
 <ul><li> Tetapkan Bob sebagai nilai untuk variable name. </br>
- name = 'Bob' </br> print(name) </br> Output : <u>Bob</u></li>
+ name = 'Bob' </br> print(name) </br> <i>Output : <u>Bob</i></li>
 <li> Tetapkan integer 7 untuk variable number.</br>
 number = 7 </br>
-print(number) </br> Output : <font color="red">7</font></li>
+print(number) </br> <i>Output : 7</i></li>
 </ul>
 </html>

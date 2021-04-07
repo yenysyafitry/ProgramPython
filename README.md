@@ -88,6 +88,9 @@ z = 55</br></i>
 <i> Dengan menggunakan variable count, cetak 'Anda akan membeli .. apel' </br>
 print('Anda akan membeli ' + str(count) + ' apel') </br></i>
 <b> Dengan menggunakan variable total_price, cetak 'Harga total adalah .. dolar' </br> </b>
-print('Harga total adalah ' + str(total_price) + ' dolar')</br> </li>
+print('Harga total adalah ' + str(total_price) + ' dolar')</br> 
+<b>Output :</b> </br><i>Anda akan membeli 5 apel </br>
+Harga total adalah 10 dolar</br></i>
+</li>
 
 </ul>

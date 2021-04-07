@@ -11,7 +11,7 @@ Komentar tidak akan muncul ketika code dijalankan sehingga Anda bisa menggunakan
 </ul>
 
 
-<b> script.py </b>
+<b> script . py </b>
 <ul><li> Tetapkan Bob sebagai nilai untuk variable name. </br>
  name = 'Bob' </br> print(name) </br> Output : <u>Bob</u></li>
 <li> Tetapkan integer 7 untuk variable number.</br>

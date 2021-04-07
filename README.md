@@ -78,5 +78,5 @@ z = 55</br></i>
 <b> Jika z tidak sama dengan 77, print 'z bukan 77' </b></br>
 <i>if not z == 77:</br>
     print('z bukan 77') </i></br>
-    <b>Output :</b> <i>x berkisar antara 10 dan 30</br>y lebih kecil dari 10 atau lebih besar dari 30 </br>z bukan 77</i></li>
+    <b>Output :</b> </br><i>x berkisar antara 10 dan 30</br>y lebih kecil dari 10 atau lebih besar dari 30 </br>z bukan 77</i></li>
 </ul>

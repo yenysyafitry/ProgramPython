@@ -56,5 +56,15 @@ if money >= apple_price: </br>
 <b> Ketika kondisi di atas adalah False, cetak 'Uang Anda tidak mencukupi' </b></br>
 <i>else: </br>
     print('Uang Anda tidak mencukupi') </i></br></li>
+<li><b> Variable berikut sudah tersedia untuk Anda</b>
+<i> money = 2 </br>
+apple_price = 2 </br>
+if money > apple_price: </br>
+    print('Anda dapat membeli apel') </i></br>
+<b> Ketika kedua variable memiliki nilai yang sama, cetak 'Anda dapat membeli apel tetapi dompet Anda akan menjadi kosong' :</b></br>
+<i>elif money == apple_price: </br>
+    print('Anda dapat membeli apel tetapi dompet Anda akan menjadi kosong') </br>
+else: </br>
+    print('Uang Anda tidak mencukupi') </i> </br><li>
 
 </ul>

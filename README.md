@@ -1,5 +1,5 @@
 <h2>  Program Python </h2>
-<ul> <li>Python termasuk bahasa pemrograman yang mudah untuk dipelajari. 
+<ul align="justify"> <li>Python termasuk bahasa pemrograman yang mudah untuk dipelajari. 
 Sampai saat ini bahasa pemrograman Python hampir dipakai di segala sistem berbasis web, dan bahkan dapat membuat mesin pencari sendiri. 
 Jadi secara umum, bahasa pemrograman ini dipakai dalam pengembangan website, pengembangan software, matematika, dan system scripting. </li>
 <li> Menampilkan Karakter :</br> print("Hello Python") </br> Karakter di dalam tanda kurung akan ditampilkan di dalam console </br> Hasil Output : Hello Python
@@ -12,7 +12,7 @@ Komentar tidak akan muncul ketika code dijalankan sehingga Anda bisa menggunakan
 
 
 
-<ul><li> Tetapkan Bob sebagai nilai untuk variable name : </br>
+<ul align="justify"><li> Tetapkan Bob sebagai nilai untuk variable name : </br>
  name = 'Bob' </br> print(name) </br> <i>Output : <u>Bob</i></li>
 <li> Tetapkan integer 7 untuk variable number :</br>
 number = 7 </br>

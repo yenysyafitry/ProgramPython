@@ -130,5 +130,5 @@ else: </br>
 <b>Output</b></br><i>apel</br>Saya suka jeruk</i></li>
 
 </ul>
-
+</br> </br> </br> 
 <p align="center"><b>E-Sertifikat </b></br><img src="https://github.com/yenysyafitry/Python/blob/main/e-sertifikat.jpg"></p>
